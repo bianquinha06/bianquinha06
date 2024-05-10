@@ -1,15 +1,16 @@
-### bem vindo(a) ao meu perfil
+### boas vindas ao meu perfil🖤
+ 
+meu nome é  Bianca
 
-<!--
-**bianquinha06/bianquinha06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando na Alura;
+- Estou me desenvolvendo na linguagem  javaScript
+- utilizo esse espaço para minha organização e compartilhamentio dos meus projetos desenvolvidos
+  
+  ### você pode entrar em contato comigo📫
+  
+  - biiancaarsilva@gmail.com
+    
+  - biiancaa_leticiia
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--
+ ![](https://media1.tenor.com/m/ecWVLrNENfsAAAAC/rabbit-secret-life-of-pets.gif)
+   
